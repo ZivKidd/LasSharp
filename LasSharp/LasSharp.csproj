@@ -5,6 +5,11 @@
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
     <Authors>Zeran</Authors>
     <Description>Read and write point cloud data with .las file</Description>
+    <PackageProjectUrl>https://github.com/ZivKidd/LasSharp</PackageProjectUrl>
+    <AssemblyVersion>1.1</AssemblyVersion>
+    <FileVersion>1.1</FileVersion>
+    <PackageTags>las;.las;</PackageTags>
+    <Version>1.1</Version>
   </PropertyGroup>
 
 </Project>
