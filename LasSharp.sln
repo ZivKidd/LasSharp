@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LasSharp", "LasSharp\LasSharp.csproj", "{F3207092-B80A-463C-AA74-EB2AE42DA444}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LasSharp.Example", "LasSharp.Example\LasSharp.Example.csproj", "{252EA9EB-5E97-4DF8-915D-CEB7B667E3F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3207092-B80A-463C-AA74-EB2AE42DA444}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3207092-B80A-463C-AA74-EB2AE42DA444}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3207092-B80A-463C-AA74-EB2AE42DA444}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3207092-B80A-463C-AA74-EB2AE42DA444}.Release|Any CPU.Build.0 = Release|Any CPU
+		{252EA9EB-5E97-4DF8-915D-CEB7B667E3F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{252EA9EB-5E97-4DF8-915D-CEB7B667E3F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{252EA9EB-5E97-4DF8-915D-CEB7B667E3F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{252EA9EB-5E97-4DF8-915D-CEB7B667E3F3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EDE99857-43E9-49BE-B9B1-ED73021CEE94}
+	EndGlobalSection
+EndGlobal

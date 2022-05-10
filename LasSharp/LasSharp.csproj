@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Authors>Zeran</Authors>
+    <Description>Read and write point cloud data with .las file</Description>
+  </PropertyGroup>
+
+</Project>
