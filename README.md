@@ -1,1 +1,1 @@
-LasSharp
+Install-Package LasSharp
